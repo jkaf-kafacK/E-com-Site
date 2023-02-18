@@ -15,5 +15,7 @@ De plus, l'administrateur du site peut :
 - Voir et supprimer un utilisateur
 - Vendre des produits à son tour
 - Voir la liste de la commande effectuée (payée ou non)
+ 
+# exemple 
+![alt text](https://github.com/jkaf-kafacK/E-com-Site/blob/main/Immagine%202023-02-18%20145246.png?raw=true)
 
-https://github.com/jkaf-kafacK/E-com-Site/blob/main/Immagine%202023-02-18%20145246.png
