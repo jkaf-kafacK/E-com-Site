@@ -10,7 +10,7 @@ Le site possède toutes les fonctionnalités de base des principaux E-commerce, 
 - voir l'historique de la commande
 - Service client
 
-De plus, l'administrateur du site peut :
+L'administrateur du site peut :
 - Créer et supprimer un produit
 - Voir et supprimer un utilisateur
 - Vendre des produits à son tour
