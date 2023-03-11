@@ -18,4 +18,3 @@ L'administrateur du site peut :
  
 # exemple 
 ![alt text](https://github.com/jkaf-kafacK/E-com-Site/blob/main/Immagine%202023-02-18%20145246.png?raw=true)
-
